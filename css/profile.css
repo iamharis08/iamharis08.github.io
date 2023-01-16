@@ -1,0 +1,19 @@
+.profile-pic{
+    width: 25%;
+    height: 25%;
+}
+
+.project-link{
+    font-size: 22px;
+    color: white;
+    font-weight: 800;
+}
+
+.resume{
+    text-decoration: underline;
+    color: white;
+}
+
+.resume:hover{
+    color: #D33F52;
+}
