@@ -17,3 +17,12 @@
 .resume:hover{
     color: #D33F52;
 }
+
+.col-md-8 p {
+    color: white;
+    font-size: 18px;
+}
+
+p{
+    color: white;
+}
